@@ -1,7 +1,3 @@
-ZhangZhungOS didicated to King Terry The Terrible the smartest programmer who ever lived
-and the ZhangZhung Meditation system of tibet
+ZhangZhung Linux
 
-terminal first OS with integrated trance techno terminal music.
-
-programmed in forth perl bash
-
+a debian terminal based techno trance linux OS with intergrated techno trance terminal music
